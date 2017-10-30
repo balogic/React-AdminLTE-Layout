@@ -1,2 +1,2 @@
 # React-AdminLTE-Layout
-A predefined layout for AdminLTE in React to Build Upon it
+A predefined layout for AdminLTE in React to build upon it
